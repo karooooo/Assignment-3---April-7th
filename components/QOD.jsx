@@ -31,7 +31,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #1",
                 "title": "What does the Flame symbol Indicate",
                 "choices": [
                   "Flammable",
@@ -50,7 +50,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #2",
                 "title": "If you pour a chemical from a large container into a smaller container:",
                 "choices": [
                   "You do not need to apply a workplace label to it as long as the chemical is not corrosive.",
@@ -66,7 +66,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #3",
                 "title": "Eating while handling hazardous chemicals would not typically cause any problems as ingestion is not a common Route of Entry",
                 "choices": [
                   "True",
@@ -80,7 +80,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #4",
                 "title": "WHMIS is an acronym that stands for",
                 "choices": [
                   "Workplace Hazardous Materials Intuitive System",
@@ -95,7 +95,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #5",
                 "title": "What does MSD stand for",
                 "choices": [
                   "Material Safety Data Sheet",
@@ -109,7 +109,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #6",
                 "title": "In order to determine the odour of a chemical, always put your head/face directly over the container opening and inhale deeply to get the best sample",
                 "choices": [
                   "True",
@@ -121,7 +121,7 @@ export default function () {
               "elements": [
                 {
                   "type": "radiogroup",
-                  "name": "civilwar",
+                  "name": "Question #7",
                   "title": "All injuries, no matter how minor, should be reported to your teacher, supervisor, or first aid attendant",
                   "choices": [
                     "True",
@@ -136,7 +136,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "civilwar",
+                "name": "Question #8",
                 "title": "If you encounter a product that has a damaged, obscured or missing label, you must",
                 "choices": [
                   "Only use the product for a short period of time",
@@ -151,7 +151,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "libertyordeath",
+                "name": "Question #9",
                 "title": "A Safety Data Sheet is",
                 "choicesOrder": "random",
                 "choices": [
@@ -167,7 +167,7 @@ export default function () {
             "elements": [
               {
                 "type": "radiogroup",
-                "name": "magnacarta",
+                "name": "Question #10",
                 "title": "if you don’t understand how to protect yourself while working with a hazardous product, you should",
                 "choicesOrder": "random",
                 "choices": [
