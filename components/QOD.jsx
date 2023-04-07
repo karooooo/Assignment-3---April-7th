@@ -32,7 +32,7 @@ export default function () {
               {
                 "type": "radiogroup",
                 "name": "Question #1",
-                "title": "What does the Flame symbol Indicate",
+                "title": "What does the Flame symbol indicate",
                 "choices": [
                   "Flammable",
                   "Explosive",
@@ -67,7 +67,7 @@ export default function () {
               {
                 "type": "radiogroup",
                 "name": "Question #3",
-                "title": "Eating while handling hazardous chemicals would not typically cause any problems as ingestion is not a common Route of Entry",
+                "title": "Eating while handling hazardous chemicals would not typically cause any problems as ingestion is not a common route of entry",
                 "choices": [
                   "True",
                   "False",
