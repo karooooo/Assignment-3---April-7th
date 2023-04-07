@@ -1,0 +1,17 @@
+export const documentProps = {
+  title: 'Safety Survey',
+  description:
+    'A WHIMIS training course',
+};
+import Header from '../components/Header.mdx';
+import Footer from '../components/Footer.mdx';
+import Main from '../components/Main.jsx';
+import QODSurvey from '../components/QODSurvey.jsx'
+
+
+<Header />
+<Main>
+  # {documentProps.title}
+  <QODSurvey />
+</Main>
+<Footer />
