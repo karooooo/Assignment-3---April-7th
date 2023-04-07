@@ -10,7 +10,6 @@
     "preview": "vite build && vite preview",
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist/client"
-
   },
   "devDependencies": {
     "@fontsource/raleway": "^4.5.12",
@@ -23,6 +22,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-streaming": "^0.3.5",
+    "survey-react-ui": "^1.9.81",
     "vite": "^4.2.0",
     "vite-plugin-ssr": "^0.4.98",
     "vitest": "^0.29.3",
